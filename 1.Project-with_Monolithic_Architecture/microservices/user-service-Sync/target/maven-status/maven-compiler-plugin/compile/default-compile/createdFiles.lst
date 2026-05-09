@@ -1,0 +1,4 @@
+com\piedrazul\userservice\entity\User.class
+com\piedrazul\userservice\repository\UserRepository.class
+com\piedrazul\userservice\entity\State.class
+com\piedrazul\userservice\entity\Role.class
